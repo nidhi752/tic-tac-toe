@@ -6,3 +6,4 @@ In this code, I've used minimax algorithm to help the computer where to go for t
 
 Combinatorics :
 When considering only the state of the board, and after taking into account board symmetries (i.e. rotations and reflections), there are only 138 terminal board positions. A combinatorics study of the game shows that when "X" makes the first move every time.
+The tic-tac-toe+ai is the main code and the other is the side chick used for the other part.
