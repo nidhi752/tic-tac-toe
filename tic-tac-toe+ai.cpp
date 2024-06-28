@@ -1,5 +1,5 @@
 // A C++ Program to play tic-tac-toe 
-
+#include "tic-tac-toe-human.cpp";
 #include<bits/stdc++.h> 
 using namespace std; 
 
@@ -283,7 +283,7 @@ int main()
         char a;
         cin >> a;
         if(a=='y' || a=='Y'){
-            
+            main2();
         }
 
 
