@@ -87,7 +87,7 @@ void resetBoard() {
     tie = false;
 }
 
-int main() {
+int main2() {
     char playAgain;
 
     do {
